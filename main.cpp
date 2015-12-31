@@ -14,7 +14,7 @@ void passer_majuscule1()
     puts(t);
 }
 
-// ex0 5.1 utiliser regular expression
+// exo 5.1 utiliser regular expression
 void passer_majuscule2() {
     char t[100];
     printf("Veuillez entrer une chaine de caractere : \n");
